@@ -4,7 +4,10 @@ This is a tool for scraping youtube channels.
 
 # Installing
 
-First, clone this repository using ´´´-git clone [github.com/levycamoes/youtube-web-scraper](https://github.com/levycamoes/youtube-web-scraper.git)´´´
+First, clone this repository using 
+```
+$ git clone https://github.com/levycamoes/youtube-web-scraper.git
+```
 
 # Requirements
 
