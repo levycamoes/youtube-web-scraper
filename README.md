@@ -17,6 +17,7 @@ Now you should be ready to scrape!
 # Scraping
 
 This project uses Selenium 4.15.2 to make requests from a youtube channel link. First, you got update the channel url. To do so, just change the url on the first string as below:
+
 ![screenshot youtube scraper](https://github.com/levycamoes/youtube-web-scraper/assets/98728758/d54730a1-1304-4173-bfa7-fde57ae0346a)
 
 # Getting Started
