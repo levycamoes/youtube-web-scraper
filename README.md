@@ -6,7 +6,7 @@ This is a tool for scraping youtube channels.
 
 First, clone this repository using
 ```
-$ git clone https://github.com/levycamoes/youtube-web-scraper.git
+git clone https://github.com/levycamoes/youtube-web-scraper.git
 ```
 Install the requirements:
 ```
