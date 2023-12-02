@@ -4,7 +4,8 @@ from selenium.common.exceptions import WebDriverException
 import time
 import pandas as pd
 
-url = "https://www.youtube.com/@cortes-leonenilceoficial4101/videos"
+# url_example = "https://www.youtube.com/@cortes-leonenilceoficial4101/videos"
+url = str(input("Insert URL channel: "))
 driver = webdriver.Chrome()
 driver.get(url)
 
